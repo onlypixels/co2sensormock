@@ -17,6 +17,7 @@ python --version
 ## Install
 ```
 pip install flask
+pip install flask-cors
 ```
 
 ## Run
