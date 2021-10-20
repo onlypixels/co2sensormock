@@ -1,5 +1,7 @@
 # co2sensormock - mocking CO2 sensor API
 
+Companion mock API for [co2sensor](https://github.com/onlypixels/co2sensor).
+
 ## Virtual environment
 Worth creating a virtual environment"
 ```
